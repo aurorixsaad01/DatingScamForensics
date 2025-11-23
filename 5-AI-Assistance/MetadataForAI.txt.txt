@@ -1,0 +1,5 @@
+No GPS location found.
+No camera model found.
+No original date/time stamp.
+Software field: blank.
+Image resolution inconsistent with smartphone cameras.

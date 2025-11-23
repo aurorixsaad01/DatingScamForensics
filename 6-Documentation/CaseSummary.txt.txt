@@ -1,0 +1,33 @@
+CASE SUMMARY – ONLINE DATING SCAM INVESTIGATION (DEMO PROJECT)
+
+1. Evidence Acquisition:
+Using FTK Imager, the demo evidence folder was acquired as a forensic E01 image.
+MD5 and SHA1 hashes were generated, confirming evidence integrity.
+
+2. Browser Activity Findings:
+Autopsy revealed visits to a dating profile, Instagram page, and a money-transfer
+website. The sequence of URLs suggests the victim interacted with a suspicious
+profile and was guided towards sending money.
+
+3. Chat Analysis:
+Fake chat logs show clear manipulation: emotional pressure, urgency, and a direct
+money request. These are typical patterns of romance scams.
+
+4. Image Metadata Findings:
+Metadata analysis using ExifTool showed missing GPS, missing camera model,
+missing timestamp, and inconsistent image properties. This strongly indicates the
+profile images were downloaded from the internet.
+
+5. OSINT Findings:
+Google Lens and Yandex reverse image searches showed the scammer’s images
+appearing on multiple unrelated sites, confirming identity fraud.
+
+6. AI-Assisted Interpretation:
+AI highlighted manipulation techniques in chats, suspicious behavioural signs in
+browser history, and metadata irregularities indicating a fake identity.
+
+CONCLUSION:
+All evidence—browser activity, chats, metadata, OSINT, and AI analysis—supports
+the conclusion that the profile involved in the interaction was fraudulent and part
+of a typical online dating scam model. This demonstrates a complete forensic
+workflow for academic purposes.

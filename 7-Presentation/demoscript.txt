@@ -1,0 +1,36 @@
+DEMO SCRIPT – ONLINE DATING SCAM FORENSIC INVESTIGATION
+
+Good morning sir/ma’am.
+
+Today I will demonstrate a short forensic investigation on an online dating scam.
+This is a demo project using free and open-source tools.
+
+Step 1 – Evidence Acquisition:
+I created a fake victim evidence folder containing browser history, chat logs, and images.
+Using FTK Imager, I acquired it into an E01 forensic image and generated MD5 and SHA1 hashes.
+This ensures evidence integrity.
+
+Step 2 – Autopsy Analysis:
+Next, I loaded the E01 image into Autopsy.
+Autopsy extracted browser history which shows visits to a dating profile, Instagram page,
+a Gmail message, and a money transfer website. This helps reconstruct the victim’s actions.
+
+Step 3 – Metadata Analysis:
+I analyzed the scammer’s profile images using ExifTool.
+The images had no camera model, no GPS data, and no timestamps.
+These missing EXIF fields indicate that the photos were downloaded from the internet.
+
+Step 4 – OSINT Verification:
+Using Google Lens and Yandex reverse image search, I found the same profile photos
+appearing on multiple unrelated websites. This confirms the identity is fake.
+
+Step 5 – AI-Assisted Interpretation:
+I provided the chat logs, browser history, and metadata findings to an AI tool.
+It identified emotional manipulation, urgency creation, and fraudulent behavioural patterns.
+
+Conclusion:
+All evidence—browser activity, image metadata, OSINT, and AI interpretation—
+shows that the profile is fraudulent and matches a typical online dating scam.
+This completes my forensic demo investigation.
+
+Thank you.

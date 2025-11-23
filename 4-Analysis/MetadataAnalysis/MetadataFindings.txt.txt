@@ -1,0 +1,3 @@
+Both profile images show missing EXIF metadata (camera, GPS, timestamp).
+This is consistent with stolen or internet-downloaded images.
+Likely the scammer is using fake identity pictures.

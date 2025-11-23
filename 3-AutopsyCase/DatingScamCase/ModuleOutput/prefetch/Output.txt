@@ -1,0 +1,2 @@
+Prefetch Directory is  C:\Users\auror\AppData\Local\Temp\Autopsy\datingscamcase_20251123_191814\Temp\RecentActivity\1-Autopsy_PF_DB.db3_0
+DB file is  D:\My Projects\DatingScamForensics\3-AutopsyCase\DatingScamCase\ModuleOutput\prefetch\1-Autopsy_PF_DB.db3

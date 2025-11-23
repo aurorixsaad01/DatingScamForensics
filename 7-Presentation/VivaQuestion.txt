@@ -1,0 +1,69 @@
+VIVA QUESTIONS & SHORT ANSWERS
+1. Why did you use FTK Imager?
+
+FTK Imager is used to acquire evidence in a forensically sound way.
+It preserves data integrity and generates MD5/SHA1 hashes.
+
+2. Why is hashing important?
+
+Hashing proves the evidence wasn’t changed or tampered with.
+If the hash matches, integrity is confirmed.
+
+3. Why did you use Autopsy?
+
+Autopsy is free, beginner-friendly, and used in real investigations.
+It extracts browser history, images, downloads, and activity timelines.
+
+4. What is the importance of browser history in a dating scam?
+
+It shows the victim’s interaction flow: dating profile → Instagram → email → money transfer page.
+
+5. Why analyze metadata?
+
+Metadata exposes:
+
+missing GPS
+
+missing timestamps
+
+missing camera model
+These often indicate stolen or fake images.
+
+6. Why use OSINT tools like Google Lens and Yandex?
+
+Reverse image search helps detect reused profile photos.
+This proves fake identity creation.
+
+7. How does AI help in this investigation?
+
+AI detects:
+
+manipulation patterns in chats
+
+suspicious user behavior
+
+metadata irregularities
+It strengthens the final conclusion.
+
+8. What is your conclusion from this investigation?
+
+The dating profile is fake.
+All data (browser, chat, metadata, OSINT, AI) indicates identity fraud and deception.
+
+9. Why is this project valuable?
+
+It demonstrates:
+
+digital forensics
+
+OSINT investigation
+
+AI analysis
+
+evidence preservation
+Using only free tools, making it practical for real cases.
+
+10. What are the limitations of this demo project?
+
+It uses synthetic evidence.
+Real investigations require deeper imaging, memory captures, and legal procedures.

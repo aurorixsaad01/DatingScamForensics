@@ -1,0 +1,145 @@
+DIGITAL FORENSIC REPORT – ONLINE DATING SCAM (DEMO PROJECT)
+
+Exam Submission – Mid-Term Practical
+Submitted by: Your Name
+Course: Your Department
+Date: Today’s Date
+
+1. Introduction
+
+This report demonstrates a complete forensic workflow performed on a simulated online dating scam case. Free and open-source tools were used to acquire, analyze, and interpret digital evidence.
+
+2. Tools Used
+
+FTK Imager 4.7.1 – Evidence acquisition
+
+Autopsy 4.21.0 – Artifact analysis
+
+ExifTool 12.76 – Image metadata analysis
+
+BrowserHistoryView 2.55 – Browser artifact viewer
+
+Google Lens & Yandex – Reverse image search (OSINT)
+
+ChatGPT – AI-based interpretation
+
+3. Evidence Acquisition
+
+A fake victim evidence folder was created, containing browser activity, chats, and images.
+
+Using FTK Imager, this folder was acquired into an E01 forensic image.
+The following hashes confirm integrity:
+
+MD5: (Insert from EvidenceHashes.txt)
+
+SHA1: (Insert from EvidenceHashes.txt)
+
+These values ensure the evidence was not modified.
+
+4. Autopsy Analysis Findings
+
+Autopsy processed the E01 image and extracted key artifacts:
+
+4.1 Browser History
+
+Visited dating profile: tinder.com/app/profile/124994
+
+Suspect Instagram profile: instagram.com/lovely_sophia99
+
+Scam email opened: gmail.com/inbox/read/112449
+
+Money transfer attempt: moneytransfer.com/send
+
+4.2 Downloads
+
+The scammer’s profile images were found in downloaded content.
+
+5. Chat Analysis
+
+Sample chat logs show:
+
+Fast emotional connection
+
+Urgency creation
+
+Direct request for money (20,000 INR)
+
+Classic romance scam pattern
+
+This supports the case narrative.
+
+6. Image Metadata Analysis
+
+Metadata from the scammer profile images showed:
+
+No GPS information
+
+No camera model
+
+No timestamp
+
+Inconsistent resolution
+
+These patterns indicate that the images were likely:
+
+Downloaded
+
+Reused
+
+Part of a fake identity
+
+7. OSINT Verification
+
+Reverse image searches using Google Lens and Yandex revealed:
+
+The same images appearing on unrelated websites
+
+Multiple profiles using identical pictures
+
+Clear signs of identity fraud
+
+Screenshots of results are attached in the OSINT folder.
+
+8. AI-Assisted Interpretation
+
+ChatGPT analyzed:
+
+Chat logs
+
+Browser history
+
+Metadata
+
+The AI identified:
+
+Manipulation techniques
+
+Emotional pressure
+
+Fraud patterns
+
+Inconsistencies in identity data
+
+This confirms the forensic findings.
+
+9. Conclusion
+
+All evidence—including browser activity, chat logs, metadata, OSINT, and AI analysis—indicates that the profile involved is fraudulent and part of a typical online dating scam.
+
+This demo project successfully demonstrates a complete, professional forensic workflow suitable for academic evaluation.
+
+10. Attachments
+
+Evidence folder
+
+Autopsy case folder
+
+OSINT screenshots
+
+AI analysis files
+
+FTK hash reports
+
+Presentation slides
+
+Viva script

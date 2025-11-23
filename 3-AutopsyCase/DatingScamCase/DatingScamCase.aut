@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2025/11/23 19:18:14 (IST)</CreatedDate>
+  <ModifiedDate>2025/11/23 19:18:23 (IST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.22.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.22.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>datingscamcase_20251123_191814</Name>
+    <DisplayName>DatingScamCase</DisplayName>
+    <Number>001</Number>
+    <Examiner>Saad Ansari</Examiner>
+    <ExaminerPhone>1234567890</ExaminerPhone>
+    <ExaminerEmail>saad.ansari@adypu.edu.in</ExaminerEmail>
+    <CaseNotes>DatingScamEquisition</CaseNotes>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>

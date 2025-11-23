@@ -1,0 +1,30 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: 001
+Evidence Number: 01
+Unique Description: Selfies
+Examiner: Saad Ansari
+Notes: OnlineDatingScamEvidence
+
+--------------------------------------------------------------
+
+Information for C:\Users\auror\Pictures\DatingScamEvidence.ad1:
+[Computed Hashes]
+ MD5 checksum:    b54a78378c2792e37f5762dc880371b9
+ SHA1 checksum:   bc0987df1ce050f901b5b673b72950af28f0844a
+
+Image information:
+ Acquisition started:   Sun Nov 23 20:36:06 2025
+ Acquisition finished:  Sun Nov 23 20:36:06 2025
+ Segment list:
+  C:\Users\auror\Pictures\DatingScamEvidence.ad1
+ COMPUTED HASH :  b54a78378c2792e37f5762dc880371b9
+ COMPUTED HASH :  bc0987df1ce050f901b5b673b72950af28f0844a
+
+Image Verification Results:
+ Verification started:  Sun Nov 23 20:36:06 2025
+ Verification finished: Sun Nov 23 20:36:06 2025
+ MD5 checksum:    b54a78378c2792e37f5762dc880371b9 : verified
+ SHA1 checksum:   bc0987df1ce050f901b5b673b72950af28f0844a : verified
